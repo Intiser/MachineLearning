@@ -24,13 +24,13 @@ The algorithms that are used here to train agents are value iteration, policy it
 
 This is a toy text game. Details -  * [Frozen Lake](https://gym.openai.com/envs/FrozenLake-v0/)
 
-![Our Policy Evaluation Solution ]()
+![Our Policy Evaluation Solution ](https://github.com/Intiser/MachineLearning/blob/master/OpenAIGym/22015607_1606383616079563_1536396437_o.jpg)
 
 ### Cart Pole
 
-This is a classic game. Details -  * [Cart Pole](https://gym.openai.com/envs/FrozenLake-v0/)
+This is a classic game. Details -  * [Cart Pole](https://gym.openai.com/envs/CartPole-v1/)
 
-![Our Q-Learning Solution ]()
+![Our Q-Learning Solution ](https://github.com/Intiser/MachineLearning/blob/master/OpenAIGym/20901429_1520779987982501_6667608153407104141_o.jpg)
 
 
 ## Authors
