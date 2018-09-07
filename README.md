@@ -1,6 +1,6 @@
 # Machine Learning
 
-This repository contains my personal codes that I tried to implement after learning the algorithms. 
+This repository contains roughly implemented codes so not so well documented. 
 
 ## Introduction
 
